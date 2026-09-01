@@ -22,13 +22,13 @@ The goal of the game is to click the turtle as many times as possible before the
 - Game Over screen
 - Simple graphical interface using Python Turtle
 
-## 🛠 Technologies
+# Technologies
 
 - Python
 - Turtle
 - Random
 
-## ▶️ How to Run
+# How to Run
 
 Make sure Python is installed on your computer.
 
